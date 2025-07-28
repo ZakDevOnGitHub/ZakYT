@@ -12,4 +12,9 @@ That's fine! ZakYT is easy to set up and use, even a grandma can do it!
 - After that, double click "Install.bat" to install the dependencies for the program
 - Once that's done, Open your terminal or command prompt in the ZakYT directory (Where "Main.py" is), and run the following code: "py Main.py"
 - You should be ready to go! 😄👍
-# Special thanks to the creators of the python module PyTube!
+# Limits
+- Program doesn't recognize the youtu.be URL
+- You can't download videos from playlists, you must get the raw video URL
+# Special thanks to the creators of the python module YT DLP!
+# Legal Disclaimer
+It is YOUR SOLE RESPONSIBILITY to use this program within legal boundaries. Any unauthorized use of copyrighted content is a violation of applicable copyright laws. ZakDevOnGitHub holds NO LIABILITY for the misuse of this program!
