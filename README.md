@@ -10,7 +10,7 @@ That's fine! ZakYT is easy to set up and use, even a grandma can do it!
 - At least Python 3.7, Download it [here](https://www.python.org/downloads/)
 - Once you finish, download this project and extract the ZIP folder by right clicking the folder and clicking "Extract All" (Windows)
 - After that, double click "Install.bat" to install the dependencies for the program
-- Once that's done, Open your terminal or command prompt in the ZakYT directory (Where "Main.py" is), and run the following code: "py Main.py"
+- Once that's done, Open your terminal or command prompt in the ZakYT directory (Where "Main.py" is), and run the following code: "python3 Main.py"
 - You should be ready to go! 😄👍
 # Limits
 - Program doesn't recognize the youtu.be URL
