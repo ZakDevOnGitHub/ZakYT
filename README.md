@@ -12,3 +12,4 @@ That's fine! ZakYT is easy to set up and use, even a grandma can do it!
 - After that, double click "Install.bat" to install the dependencies for the program
 - Once that's done, Open your terminal or command prompt in the ZakYT directory (Where "Main.py" is), and run the following code: "py Main.py"
 - You should be ready to go! 😄👍
+# Special thanks to the creators of the python module PyTube!
